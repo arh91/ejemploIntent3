@@ -1,7 +1,7 @@
-package com.example.intenttres
+package com.example.intenttres.main
 
 import androidx.lifecycle.ViewModel
 
-class BlankViewModel : ViewModel() {
+class ViewModel : ViewModel() {
     // TODO: Implement the ViewModel
 }
